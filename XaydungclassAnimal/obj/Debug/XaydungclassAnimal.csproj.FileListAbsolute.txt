@@ -1,0 +1,7 @@
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\bin\Debug\XaydungclassAnimal.exe.config
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\bin\Debug\XaydungclassAnimal.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\bin\Debug\XaydungclassAnimal.pdb
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\obj\Debug\XaydungclassAnimal.csproj.AssemblyReference.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\obj\Debug\XaydungclassAnimal.csproj.CoreCompileInputs.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\obj\Debug\XaydungclassAnimal.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\XaydungclassAnimal\XaydungclassAnimal\obj\Debug\XaydungclassAnimal.pdb
